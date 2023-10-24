@@ -1,0 +1,23 @@
+.слой_987654321 {
+  font-size: 50px;
+  font-family: "Myriad Pro";
+  color: rgb(64, 186, 48);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 717.938px;
+  top: 415.5px;
+  z-index: 3;
+}
+
+ 1.0 .25283 .73001 .18981 
+
+.Прямоугольник_1 {
+  background-color: rgb(187, 221, 183);
+  position: absolute;
+  left: 218px;
+  top: 791px;
+  width: 376px;
+  height: 259px;
+  z-index: 4;
+}
