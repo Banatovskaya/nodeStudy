@@ -63,7 +63,38 @@ cprt2desc0kwtptbkptrTRCgTRCbTRCrXYZgXYZbXYZtextCopyright 1999 Adobe Systems Inco
 
 3!1AQa"q2B#$Rb34rC%Scs5&DTdE£t6UeuF'Vfv7GWgw5!1AQaq"2B#R3$brCScs4%&5DTdEU6teuFVfv'7GWgw?TI%)%_^N312,ɱsvw<5"=Aat8_u]Iֹ'&kTwQ%q2׋hއ]%ѭ˹oM8sWlg>,?­4Ak'vДI"TI%!-',fM³KI&Q[95XTRr^)˟$kiI+b:HP].jXcUݔ]mZ6SEI$PI$l$I!TI%)$IJI$RI$TI%)$IJI$RI$8BIM!]Adobe PhotoshopAdobe Photoshop CC 20178BIM"2MM*bj(1"r2i''Adobe Photoshop CC 2017 (Windows)2023:09:24 18:38:57"*(2HHf?`8BIMnorm0(8BIMluni$>=8BIMlnsrbgnd8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubADe8BIMfxrp*MK8BIMnorm#(7778BIMTySh"L??@R@R2TxLrTxt TEXT777textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PntTop UntF#PntDRghtUntF#Pnt@S<BtomUntF#Pnt@(`boundingBoxObjcboundingBoxLeftUntF#Pnt@@Top UntF#Pnt@aRghtUntF#Pnt@RBtomUntF#PntTextIndexlong
 EngineDatatdtas
+3!1AQa"q2B#$Rb34rC%Scs5&DTdE£t6UeuF'Vfv7GWgw5!1AQaq"2B#R3$brCScs4%&5DTdEU6teuFVfv'7GWgw?TI%)%_^N312,ɱsvw<5"=Aat8_u]Iֹ'&kTwQ%q2׋hއ]%ѭ˹oM8sWlg>,?­4Ak'vДI"TI%!-',fM³KI&Q[95XTRr^)˟$kiI+b:HP].jXcUݔ]mZ6SEI$PI$l$I!TI%)$IJI$RI$TI%)$IJI$RI$8BIM!]Adobe PhotoshopAdobe Photoshop CC 20178BIM"2MM*bj(1"r2i''Adobe Photoshop CC 2017 (Windows)2023:09:24 18:38:57"*(2HHf?`8BIMnorm0(8BIMluni$>=8BIMlnsrbgnd8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubADe8BIMfxrp*MK8BIMnorm#(7778BIMTySh"L??@R@R2TxLrTxt TEXT777textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PntTop UntF#PntDRghtUntF#Pnt@S<BtomUntF#Pnt@(`boundingBoxObjcboundingBoxLeftUntF#Pnt@@Top UntF#Pnt@aRghtUntF#Pnt@RBtomUntF#PntTextIndexlong
+EngineDatatdtas
 
+<<
+   /EngineDict
+      <<
+         /Editor
+            <<
+               /Text (777)
+            >>
+         /ParagraphRun
+            <<
+               /DefaultRunData
+                  <<
+                     /ParagraphSheet
+                        <<
+                           /DefaultStyleSheet 0
+                           /Properties
+                              <<
+                              >>
+                        >>
+                     /Adjustments
+                        <<
+                           /Axis [ 1.0 0.0 1.0 ]
+                           /XY [ 0.0 0.0 ]
+                        >>
+                  >>
+               /RunArray [
+                  <<
+                     /ParagraphSheet
+                        <<
+                           /Name (07>2K9 017
 <<
    /EngineDict
       <<

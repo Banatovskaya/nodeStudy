@@ -49,45 +49,55 @@ server.listen(3000, () => {
 // // console.log('Adf5фф☺7ၕ'.codePointAt(8))
 // });
 
-readStream = fs.createReadStream("1.txt", {});
+readStream = fs.createReadStream("newFile copy.txt", {});
 writeStream = fs.createWriteStream('object.txt');
 readStream.on("data", function(chunk){ 
     
     
     let newChunk = []; //not string only array because we need change characters inside
-    console.log(chunk.length)
-    console.log(chunk.toString().length)
+    let isMainObject = false;
+    let paragrafLengthBeforeBrackets = [];
     for (let i = 0; i < (chunk.toString().length-1); i++){
         if (chunk.toString().charCodeAt(i) == 60 && chunk.toString().charCodeAt(i+1) == 60 ) { // if character == <<
 //always use chunk.toString().charCodeAt(i) instead chunk[i] because 
 //they have different arr.lenght because Cyrrilic characters consist from two code elements
-            
-            let ii = i-1
-            // i++;
-            while (chunk.toString().charCodeAt(ii) == 32){
-                newChunk[ii] = '' 
-                ii--;
-                if(newChunk[ii] == '\n' && newChunk[ii-1] == '\r'){ // if character == move next line
-                    newChunk[ii] = '';
-                    newChunk[ii-1] = '';
+            if (isMainObject == false) {
+                isMainObject = true;
+                newChunk.push('object',':','{');  
+                paragrafLengthBeforeBrackets.push(8);
+            } else {
+                let backCounterForNewChunk = newChunk.length-1;
+                let backCounterForChunk = i-1;
+                while (chunk.toString().charCodeAt(backCounterForChunk) == 32){
 
-                    // ii--;
-                 
+                newChunk[backCounterForNewChunk] = '' ;
+                backCounterForNewChunk--;
+                backCounterForChunk--;
+                // if(newChunk[backCounterForNewChunk] == '\n' && newChunk[backCounterForNewChunk-1] == '\r'){ // if character == move next line
+                //     newChunk[backCounterForNewChunk] = '';
+                //     newChunk[backCounterForNewChunk-1] = '';
+                // }
+                if(newChunk[backCounterForNewChunk] == '\n' ){ // if character == move next line
+                    newChunk[backCounterForNewChunk] = '';
+                    // newChunk[backCounterForNewChunk-1] = '';
                 }
             }
-            newChunk.push(':','{','\n');
-            i++
+            newChunk.push(':','{');
+            }
+            
+        
             i++
 
         } else if (chunk.toString().charAt(i+1) == '>' && chunk.toString().charAt(i) == '>'){
             newChunk.push('}');
             i++
         } else {
-            // console.log('<<',chunk[i])
             newChunk.push(chunk.toString().charAt(i));
         }
     }
+    // console.log(newChunk)
     console.log(newChunk.join(''))
     writeStream.write(newChunk.join(''))
 }
 )
+
