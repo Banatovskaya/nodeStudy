@@ -56,39 +56,51 @@ readStream.on("data", function(chunk){
     
     let newChunk = []; //not string only array because we need change characters inside
     let isMainObject = false;
-    let paragrafLengthBeforeBrackets = [];
+    let paragrafLengthBeforeBracketArr = [];
+    
+    function deletePreviousSpacesFromLastPosition(backCounterForNewChunk, backCounterForChunk){
+        while (chunk.toString().charCodeAt(backCounterForChunk) == 32){ //delete spaces in newChunk before bracket
+            newChunk.splice(backCounterForNewChunk, 1);
+            backCounterForNewChunk--;
+            backCounterForChunk--;
+        }    
+    }    
+
     for (let i = 0; i < (chunk.toString().length-1); i++){
         if (chunk.toString().charCodeAt(i) == 60 && chunk.toString().charCodeAt(i+1) == 60 ) { // if character == <<
 //always use chunk.toString().charCodeAt(i) instead chunk[i] because 
 //they have different arr.lenght because Cyrrilic characters consist from two code elements
-            if (isMainObject == false) {
+            if (isMainObject == false) {  // 1-st(main) object
                 isMainObject = true;
                 newChunk.push('object',':','{');  
-                paragrafLengthBeforeBrackets.push(8);
+                paragrafLengthBeforeBracketArr.push(8);
             } else {
-                let backCounterForNewChunk = newChunk.length-1;
-                let backCounterForChunk = i-1;
-                while (chunk.toString().charCodeAt(backCounterForChunk) == 32){
 
-                newChunk[backCounterForNewChunk] = '' ;
-                backCounterForNewChunk--;
-                backCounterForChunk--;
-                // if(newChunk[backCounterForNewChunk] == '\n' && newChunk[backCounterForNewChunk-1] == '\r'){ // if character == move next line
-                //     newChunk[backCounterForNewChunk] = '';
-                //     newChunk[backCounterForNewChunk-1] = '';
-                // }
-                if(newChunk[backCounterForNewChunk] == '\n' ){ // if character == move next line
-                    newChunk[backCounterForNewChunk] = '';
-                    // newChunk[backCounterForNewChunk-1] = '';
+                deletePreviousSpacesFromLastPosition(newChunk.length-1, i-1);
+                if(newChunk[newChunk.length-1] == '\n' ){ // if character == move next line
+                    newChunk.splice(newChunk.length-1, 1); //delete '/n' in newChunk before bracket
                 }
-            }
+
+            
             newChunk.push(':','{');
+            let paragrafLengthBeforeBracket = newChunk.length-1 - newChunk.lastIndexOf('\n')
+            paragrafLengthBeforeBracketArr.push(paragrafLengthBeforeBracket);
             }
             
         
             i++
 
         } else if (chunk.toString().charAt(i+1) == '>' && chunk.toString().charAt(i) == '>'){
+            deletePreviousSpacesFromLastPosition(newChunk.length-1, i-1)
+
+            // let backCounterForNewChunk = newChunk.length-1;
+            //     let backCounterForChunk = i-1;
+
+            // while (chunk.toString().charCodeAt(backCounterForChunk) == 32){ //delete spaces in newChunk before bracket
+            //     newChunk.splice(backCounterForNewChunk, 1);
+            //     backCounterForNewChunk--;
+            //     backCounterForChunk--;
+            // }    
             newChunk.push('}');
             i++
         } else {

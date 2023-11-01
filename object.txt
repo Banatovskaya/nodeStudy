@@ -68,19 +68,19 @@ object:{
    /EngineDict:{
          /Editor:{
                /Text (777)
-            }
+}
          /ParagraphRun:{
                /DefaultRunData:{
                      /ParagraphSheet:{
                            /DefaultStyleSheet 0
                            /Properties:{
-                              }
-                        }
+}
+}
                      /Adjustments:{
                            /Axis [ 1.0 0.0 1.0 ]
                            /XY [ 0.0 0.0 ]
-                        }
-                  }
+}
+}
                /RunArray [:{
                      /ParagraphSheet:{
                            /Name (07>2K9 0170F)
@@ -107,24 +107,24 @@ object:{
                                  /Burasagari false
                                  /KinsokuOrder 0
                                  /EveryLineComposer false
-                              }
-                        }
+}
+}
                      /Adjustments:{
                            /Axis [ 1.0 0.0 1.0 ]
                            /XY [ 0.0 0.0 ]
-                        }
-                  }
+}
+}
                ]
                /RunLengthArray [ 4 ]
                /IsJoinable 1
-            }
+}
          /StyleRun:{
                /DefaultRunData:{
                      /StyleSheet:{
                         /StyleSheetData:{
-                        }
-                     }
-                  }
+}
+}
+}
                /RunArray [:{
                      /StyleSheet:{
                         /StyleSheetData:{
@@ -133,18 +133,18 @@ object:{
                            /FillColor:{
                            /Type 1
                            /Values [ 1.0 .72549 .13941 .13941 ]
-                           }
+}
                            /StrokeColor:{
                            /Type 1
                            /Values [ 1.0 .4426 .4426 .4426 ]
-                           }
-                        }
-                     }
-                  }
+}
+}
+}
+}
                ]
                /RunLengthArray [ 4 ]
                /IsJoinable 2
-            }
+}
          /GridInfo:{
                /GridIsOn false
                /ShowGrid false
@@ -153,13 +153,13 @@ object:{
                /GridColor:{
                /Type 1
                /Values [ 0.0 0.0 0.0 1.0 ]
-               }
+}
                /GridLeadingFillColor:{
                /Type 1
                /Values [ 0.0 0.0 0.0 1.0 ]
-               }
+}
                /AlignLineHeightToGridFlags false
-            }
+}
          /AntiAlias 4
          /UseFractionalGlyphWidths true
          /Rendered:{
@@ -172,7 +172,7 @@ object:{
                            /Lines:{
                                  /WritingDirection 0
                                  /Children [ ]
-                              }
+}
                            /Cookie:{
                               /Photoshop:{
                                     /ShapeType 0
@@ -182,14 +182,14 @@ object:{
                                        /TransformPoint0 [ 1.0 0.0 ]
                                        /TransformPoint1 [ 0.0 1.0 ]
                                        /TransformPoint2 [ 0.0 0.0 ]
-                                    }
-                                 }
-                           }
-                        }
+}
+}
+}
+}
                      ]
-                  }
-            }
-      }
+}
+}
+}
    /ResourceDict:{
          /KinsokuSet [:{
          /Name (PhotoshopKinsokuHard)
@@ -198,24 +198,24 @@ object:{
          000\([{ 0)
          /Keep (  %)
          /Hanging (00.,)
-         }:{
+}:{
          /Name (PhotoshopKinsokuSoft)
          /NoStart (000  0=]0000000000)
          /NoEnd (  0;[00
          000)
          /Keep (  %)
          /Hanging (00.,)
-         }
+}
          ]
          /MojiKumiSet [:{
             /InternalName (Photoshop6MojiKumiSet1)
-            }:{
+}:{
             /InternalName (Photoshop6MojiKumiSet2)
-            }:{
+}:{
             /InternalName (Photoshop6MojiKumiSet3)
-            }:{
+}:{
             /InternalName (Photoshop6MojiKumiSet4)
-            }
+}
          ]
          /TheNormalStyleSheet 0
          /TheNormalParagraphSheet 0
@@ -244,8 +244,8 @@ object:{
             /Burasagari false
             /KinsokuOrder 0
             /EveryLineComposer false
-            }
-         }
+}
+}
          ]
          /StyleSheetSet [:{
             /Name (>@<0;L=K9 RGB)
@@ -276,11 +276,11 @@ object:{
                /FillColor:{
                   /Type 1
                   /Values [ 1.0 0.0 0.0 0.0 ]
-                  }
+}
                   /StrokeColor:{
                   /Type 1
                   /Values [ 1.0 0.0 0.0 0.0 ]
-                  }
+}
                /FillFlag true
                /StrokeFlag false
                /FillFirst true
@@ -290,27 +290,27 @@ object:{
                /HindiNumbers false
                /Kashida 1
                /DiacriticPos 2
-            }
-         }
+}
+}
          ]
          /FontSet [:{
          /Name (AdobeInvisFont)
          /Script 0
          /FontType 0
          /Synthetic 0
-         }:{
+}:{
             /Name (MyriadPro-Regular)
             /Script 0
             /FontType 0
             /Synthetic 0
-            }
+}
          ]
          /SuperscriptSize .583
          /SuperscriptPosition .333
          /SubscriptSize .583
          /SubscriptPosition .333
          /SmallCapSize .7
-      }
+}
    /DocumentResources:{
          /KinsokuSet [:{
             /Name (PhotoshopKinsokuHard)
@@ -319,24 +319,24 @@ object:{
             000\([{ 0)
             /Keep (  %)
             /Hanging (00.,)
-            }:{
+}:{
             /Name (PhotoshopKinsokuSoft)
             /NoStart (000  0=]0000000000)
             /NoEnd (  0;[00
             000)
             /Keep (  %)
             /Hanging (00.,)
-            }
+}
          ]
          /MojiKumiSet [:{
                /InternalName (Photoshop6MojiKumiSet1)
-            }:{
+}:{
                /InternalName (Photoshop6MojiKumiSet2)
-            }:{
+}:{
                /InternalName (Photoshop6MojiKumiSet3)
-            }:{
+}:{
                /InternalName (Photoshop6MojiKumiSet4)
-            }
+}
          ]
          /TheNormalStyleSheet 0
          /TheNormalParagraphSheet 0
@@ -365,8 +365,8 @@ object:{
                   /Burasagari false
                   /KinsokuOrder 0
                   /EveryLineComposer false
-               }
-            }
+}
+}
          ]
          /StyleSheetSet [:{
                /Name (>@<0;L=K9 RGB)
@@ -397,11 +397,11 @@ object:{
                   /FillColor:{
                   /Type 1
                   /Values [ 1.0 0.0 0.0 0.0 ]
-                  }
+}
                   /StrokeColor:{
                   /Type 1
                   /Values [ 1.0 0.0 0.0 0.0 ]
-                  }
+}
                   /FillFlag true
                   /StrokeFlag false
                   /FillFirst true
@@ -411,27 +411,27 @@ object:{
                   /HindiNumbers false
                   /Kashida 1
                   /DiacriticPos 2
-               }
-            }
+}
+}
          ]
          /FontSet [:{
             /Name (AdobeInvisFont)
             /Script 0
             /FontType 0
             /Synthetic 0
-            }:{
+}:{
             /Name (MyriadPro-Regular)
             /Script 0
             /FontType 0
             /Synthetic 0
-            }
+}
          ]
          /SuperscriptSize .583
          /SuperscriptPosition .333
          /SubscriptSize .583
          /SubscriptPosition .333
          /SmallCapSize .7
-      }
+}
 }
 warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
 warpRotateenumOrntHrzn8BIMluni7778BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubADes8BIMfxrpwwwwwwwwwDDDwwwDDDfffffffffffffffwwwfffwwwDDDD"D"D"D"D"D""D"D"D"D"D"D"f"f"ffffwwwwwwwwwwwwwww
@@ -446,11 +446,11 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8BIMPatt8BIMTxt2'C /98:{ /0 7 } /0:{ /1:{ /0 [:{ /0:{ /99 /CoolTypeFont /0:{ /0 (AdobeInvisFont) /2 0 } } }:{ /0:{ /99 /CoolTypeFont /0:{ /0 (MyriadPro-Regular) /2 0 } } }:{ /0:{ /99 /CoolTypeFont /0:{ /0 (TimesNewRomanPSMT) /2 1 } } } ] } /2:{ /0 [:{ /0:{ /0 () } } ] /1 [:{ /0 0 } ] } /3:{ /0 [:{ /0:{ /0 (Photoshop6MojiKumiSet4) /5:{ /0 0 /3 2 } } }:{ /0:{ /0 (Photoshop6MojiKumiSet3) /5:{ /0 0 /3 4 } } }:{ /0:{ /0 (Photoshop6MojiKumiSet2) /5:{ /0 0 /3 3 } } }:{ /0:{ /0 (Photoshop6MojiKumiSet1) /5:{ /0 0 /3 1 } } }:{ /0:{ /0 (YakumonoHankaku) /5:{ /0 0 /3 1 } } }:{ /0:{ /0 (GyomatsuYakumonoHankaku) /5:{ /0 0 /3 3 } } }:{ /0:{ /0 (GyomatsuYakumonoZenkaku) /5:{ /0 0 /3 4 } } }:{ /0:{ /0 (YakumonoZenkaku) /5:{ /0 0 /3 2 } } } ] /1 [:{ /0 0 }:{ /0 1 }:{ /0 2 }:{ /0 3 }:{ /0 4 }:{ /0 5 }:{ /0 6 }:{ /0 7 } ] } /4:{ /0 [:{ /0:{ /0 (None) /5:{ /0 () /1 () /2 () /3 () /4 0 } } }:{ /0:{ /0 (PhotoshopKinsokuHard) /5:{ /0 (!\),.:;?]}    0!!000000
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8BIMPatt8BIMTxt2'C /98:{ /0 7} /0:{ /1:{ /0 [:{ /0:{ /99 /CoolTypeFont /0:{ /0 (AdobeInvisFont) /2 0}}}:{ /0:{ /99 /CoolTypeFont /0:{ /0 (MyriadPro-Regular) /2 0}}}:{ /0:{ /99 /CoolTypeFont /0:{ /0 (TimesNewRomanPSMT) /2 1}}} ]} /2:{ /0 [:{ /0:{ /0 ()}} ] /1 [:{ /0 0} ]} /3:{ /0 [:{ /0:{ /0 (Photoshop6MojiKumiSet4) /5:{ /0 0 /3 2}}}:{ /0:{ /0 (Photoshop6MojiKumiSet3) /5:{ /0 0 /3 4}}}:{ /0:{ /0 (Photoshop6MojiKumiSet2) /5:{ /0 0 /3 3}}}:{ /0:{ /0 (Photoshop6MojiKumiSet1) /5:{ /0 0 /3 1}}}:{ /0:{ /0 (YakumonoHankaku) /5:{ /0 0 /3 1}}}:{ /0:{ /0 (GyomatsuYakumonoHankaku) /5:{ /0 0 /3 3}}}:{ /0:{ /0 (GyomatsuYakumonoZenkaku) /5:{ /0 0 /3 4}}}:{ /0:{ /0 (YakumonoZenkaku) /5:{ /0 0 /3 2}}} ] /1 [:{ /0 0}:{ /0 1}:{ /0 2}:{ /0 3}:{ /0 4}:{ /0 5}:{ /0 6}:{ /0 7} ]} /4:{ /0 [:{ /0:{ /0 (None) /5:{ /0 () /1 () /2 () /3 () /4 0}}}:{ /0:{ /0 (PhotoshopKinsokuHard) /5:{ /0 (!\),.:;?]}    0!!000000
 0000A0C0E0G0I0c000000000000000000000000=]) /1 (\([{  00
-00000 ;[) /2 (  % &) /3 (00) /4 1 } } }:{ /0:{ /0 (PhotoshopKinsokuSoft) /5:{ /0 (  000000
+00000 ;[) /2 (  % &) /3 (00) /4 1}}}:{ /0:{ /0 (PhotoshopKinsokuSoft) /5:{ /0 (  000000
 00000000=]) /1 (  00
-0000;[) /2 (  % &) /3 (00) /4 2 } } }:{ /0:{ /0 (Hard) /5:{ /0 (!\),.:;?]}    0!!000000
+0000;[) /2 (  % &) /3 (00) /4 2}}}:{ /0:{ /0 (Hard) /5:{ /0 (!\),.:;?]}    0!!000000
 0000A0C0E0G0I0c000000000000000000000000=]) /1 (\([{  00
-00000 ;[) /2 (  % &) /3 (00) /4 1 } } }:{ /0:{ /0 (Soft) /5:{ /0 (  000000
+00000 ;[) /2 (  % &) /3 (00) /4 1}}}:{ /0:{ /0 (Soft) /5:{ /0 (  000000
 00000000=]) /1 (  00
