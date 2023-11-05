@@ -22,6 +22,8 @@ EngineDatatdtas
                               <<
                               >>
                         >>
+                        <<
+                        >>
                      /Adjustments
                         <<
                            /Axis [ 1.0 0.0 1.0 ]
@@ -33,3 +35,23 @@ EngineDatatdtas
                      /ParagraphSheet
                         <<
                            /Name (07>2K9 017
+                           >>
+                           >>
+                           >>
+                           >>
+                           >>
+
+                           warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni7778BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubADes8BIMfxrpwwwwwwwwwDDDwwwDDDfffffffffffffffwwwfffwwwDDDD"D"D"D"D"D""D"D"D"D"D"D"f"f"ffffwwwwwwwwwwwwwww
+
+
+
+
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8BIMPatt8BIMTxt2'C /98 << /0 7 >> /0 << /1 << /0 [ << /0 << /99 /CoolTypeFont /0 << /0 (AdobeInvisFont) /2 0 >> >> >> << /0 << /99 /CoolTypeFont /0 << /0 (MyriadPro-Regular) /2 0 >> >> >> << /0 << /99 /CoolTypeFont /0 << /0 (TimesNewRomanPSMT) /2 1 >> >> >> ] >> /2 << /0 [ << /0 << /0 () >> >> ] /1 [ << /0 0 >> ] >> /3 << /0 [ << /0 << /0 (Photoshop6MojiKumiSet4) /5 << /0 0 /3 2 >> >> >> << /0 << /0 (Photoshop6MojiKumiSet3) /5 << /0 0 /3 4 >> >> >> << /0 << /0 (Photoshop6MojiKumiSet2) /5 << /0 0 /3 3 >> >> >> << /0 << /0 (Photoshop6MojiKumiSet1) /5 << /0 0 /3 1 >> >> >> << /0 << /0 (YakumonoHankaku) /5 << /0 0 /3 1 >> >> >> << /0 << /0 (GyomatsuYakumonoHankaku) /5 << /0 0 /3 3 >> >> >> << /0 << /0 (GyomatsuYakumonoZenkaku) /5 << /0 0 /3 4 >> >> >> << /0 << /0 (YakumonoZenkaku) /5 << /0 0 /3 2 >> >> >> ] /1 [ << /0 0 >> << /0 1 >> << /0 2 >> << /0 3 >> << /0 4 >> << /0 5 >> << /0 6 >> << /0 7 >> ] >> /4 << /0 [ << /0 << /0 (None) /5 << /0 () /1 () /2 () /3 () /4 0 >> >> >> << /0 << /0 (PhotoshopKinsokuHard) /5 << /0 (!\),.:;?]}    0!!000000

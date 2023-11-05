@@ -49,10 +49,9 @@ server.listen(3000, () => {
 // // console.log('Adf5фф☺7ၕ'.codePointAt(8))
 // });
 
-readStream = fs.createReadStream("newFile copy.txt", {});
+readStream = fs.createReadStream("newFile.txt", {});
 writeStream = fs.createWriteStream('object.txt');
 readStream.on("data", function(chunk){ 
-    
     
     let newChunk = []; //not string only array because we need change characters inside
     let isMainObject = false;
@@ -66,7 +65,15 @@ readStream.on("data", function(chunk){
         }    
     }    
 
+    function addSpaces(num){
+        for (i = 0; i < num; i++){
+            newChunk.push(' ');
+        } 
+    }
+
+
     for (let i = 0; i < (chunk.toString().length-1); i++){
+        
         if (chunk.toString().charCodeAt(i) == 60 && chunk.toString().charCodeAt(i+1) == 60 ) { // if character == <<
 //always use chunk.toString().charCodeAt(i) instead chunk[i] because 
 //they have different arr.lenght because Cyrrilic characters consist from two code elements
@@ -74,35 +81,54 @@ readStream.on("data", function(chunk){
                 isMainObject = true;
                 newChunk.push('object',':','{');  
                 paragrafLengthBeforeBracketArr.push(8);
+
+
             } else {
-
-                deletePreviousSpacesFromLastPosition(newChunk.length-1, i-1);
-                if(newChunk[newChunk.length-1] == '\n' ){ // if character == move next line
-                    newChunk.splice(newChunk.length-1, 1); //delete '/n' in newChunk before bracket
+                if ((paragrafLengthBeforeBracketArr.length > 0)){
+                    deletePreviousSpacesFromLastPosition(newChunk.length-1, i-1);
+                    
+                        
+                    if (newChunk[newChunk.length-1] == '\n' ){ // if character == move next line
+                        if (newChunk[newChunk.length-2] == '}'){ // if >> <<
+                            let a = paragrafLengthBeforeBracketArr.length;
+                            addSpaces(paragrafLengthBeforeBracketArr[a-1]+1)   
+                            newChunk.push('}' , ',' , '\n','{');
+                            console.log('bfbfgfdgfdgfddgf')
+                        } else {                          
+           
+                        // if(newChunk[newChunk.length-1] == '\n' && newChunk[newChunk.length-2] == '\r'){ // if character == move next line
+                        //     newChunk.splice(newChunk.length-1, 1); //delete '/n' in newChunk before bracket
+                        //     newChunk.splice(newChunk.length-1, 1); 
+                        // };
+                        newChunk.push(':','{');
+                        let paragrafLengthBeforeBracket = (newChunk.length-1) - newChunk.lastIndexOf('\n') - 1;
+                        paragrafLengthBeforeBracketArr.push(paragrafLengthBeforeBracket);
+                        }
+                    };
+  
                 }
-
-            
-            newChunk.push(':','{');
-            let paragrafLengthBeforeBracket = newChunk.length-1 - newChunk.lastIndexOf('\n')
-            paragrafLengthBeforeBracketArr.push(paragrafLengthBeforeBracket);
+                
             }
-            
-        
-            i++
+                i++;
+
+        } else if (chunk.toString().charAt(i) == '/'){
+            if (paragrafLengthBeforeBracketArr.length > 0){
+                deletePreviousSpacesFromLastPosition(newChunk.length-1, i-1);   
+                let a = paragrafLengthBeforeBracketArr.length;
+                addSpaces(paragrafLengthBeforeBracketArr[a-1]+1)             
+            };
 
         } else if (chunk.toString().charAt(i+1) == '>' && chunk.toString().charAt(i) == '>'){
-            deletePreviousSpacesFromLastPosition(newChunk.length-1, i-1)
-
-            // let backCounterForNewChunk = newChunk.length-1;
-            //     let backCounterForChunk = i-1;
-
-            // while (chunk.toString().charCodeAt(backCounterForChunk) == 32){ //delete spaces in newChunk before bracket
-            //     newChunk.splice(backCounterForNewChunk, 1);
-            //     backCounterForNewChunk--;
-            //     backCounterForChunk--;
-            // }    
+            
+            if (paragrafLengthBeforeBracketArr.length > 0){
+                deletePreviousSpacesFromLastPosition(newChunk.length-1, i-1);   
+                let a = paragrafLengthBeforeBracketArr.length;
+                addSpaces(paragrafLengthBeforeBracketArr[a-1])
+                paragrafLengthBeforeBracketArr.pop();
+            }
             newChunk.push('}');
-            i++
+            i++;
+
         } else {
             newChunk.push(chunk.toString().charAt(i));
         }
