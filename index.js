@@ -89,7 +89,6 @@ readStream.on("data", function(chunk){
                     
                         
                     if (newChunk[newChunk.length-1] == '\n' ){ // if character == move next line
-                        console.log('bfbfgfdgfdgfddgf', newChunk[newChunk.length-2])
                         newChunk.splice(newChunk.length-1, 1); //delete '/n' in newChunk before bracket
                         if (newChunk[newChunk.length-1] == '}'){ // if >> <<
                             let a = paragrafLengthBeforeBracketArr.length;
