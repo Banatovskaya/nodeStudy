@@ -49,7 +49,7 @@ server.listen(3000, () => {
 // // console.log('Adf5фф☺7ၕ'.codePointAt(8))
 // });
 
-readStream = fs.createReadStream("newFile.txt", {});
+readStream = fs.createReadStream("1.txt", {});
 writeStream = fs.createWriteStream('object.txt');
 readStream.on("data", function(chunk){ 
     
@@ -84,27 +84,26 @@ readStream.on("data", function(chunk){
 
 
             } else {
-                if ((paragrafLengthBeforeBracketArr.length > 0)){
+                if (paragrafLengthBeforeBracketArr.length > 0){
                     deletePreviousSpacesFromLastPosition(newChunk.length-1, i-1);
                     
                         
                     if (newChunk[newChunk.length-1] == '\n' ){ // if character == move next line
-                        if (newChunk[newChunk.length-2] == '}'){ // if >> <<
+                        console.log('bfbfgfdgfdgfddgf', newChunk[newChunk.length-2])
+                        newChunk.splice(newChunk.length-1, 1); //delete '/n' in newChunk before bracket
+                        if (newChunk[newChunk.length-1] == '}'){ // if >> <<
                             let a = paragrafLengthBeforeBracketArr.length;
+                            newChunk.push(',' , '\n');
                             addSpaces(paragrafLengthBeforeBracketArr[a-1]+1)   
-                            newChunk.push('}' , ',' , '\n','{');
-                            console.log('bfbfgfdgfdgfddgf')
-                        } else {                          
-           
-                        // if(newChunk[newChunk.length-1] == '\n' && newChunk[newChunk.length-2] == '\r'){ // if character == move next line
-                        //     newChunk.splice(newChunk.length-1, 1); //delete '/n' in newChunk before bracket
-                        //     newChunk.splice(newChunk.length-1, 1); 
-                        // };
+                            newChunk.push('{');
+                           
+                        } else {                        
+
                         newChunk.push(':','{');
                         let paragrafLengthBeforeBracket = (newChunk.length-1) - newChunk.lastIndexOf('\n') - 1;
                         paragrafLengthBeforeBracketArr.push(paragrafLengthBeforeBracket);
-                        }
-                    };
+                        }  
+                    }
   
                 }
                 
