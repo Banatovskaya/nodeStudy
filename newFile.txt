@@ -1,5 +1,5 @@
-8BPSK48BIMZ%GZ%G8BIM%]tn۾9y\8BIM$;+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+8BPS8q@8BIM8BIM%\/{gdպ8BIM$J<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c006 79.164753, 2021/02/15-11:52:13        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
             xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -7,520 +7,5984 @@
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
             xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
             xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
-         <xmp:CreatorTool>Adobe Photoshop CC 2017 (Windows)</xmp:CreatorTool>
-         <xmp:CreateDate>2023-08-26T16:35:51+03:00</xmp:CreateDate>
-         <xmp:MetadataDate>2023-09-24T18:38:57+03:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2023-09-24T18:38:57+03:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe Photoshop 22.3 (Windows)</xmp:CreatorTool>
+         <xmp:CreateDate>2023-03-29T12:32:42+05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2023-04-05T15:02:29+05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2023-04-05T15:02:29+05:00</xmp:ModifyDate>
          <dc:format>application/vnd.adobe.photoshop</dc:format>
-         <xmpMM:InstanceID>xmp.iid:4b1e4aa1-a54e-7948-a59e-7018e2df1b60</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:c0f425fa-f05b-9c49-9820-10e27abd84de</xmpMM:DocumentID>
-         <xmpMM:OriginalDocumentID>xmp.did:c0f425fa-f05b-9c49-9820-10e27abd84de</xmpMM:OriginalDocumentID>
+         <xmpMM:InstanceID>xmp.iid:f60bdbf0-c39c-9f4a-b704-833170b49f44</xmpMM:InstanceID>
+         <xmpMM:DocumentID>adobe:docid:photoshop:457e3b00-d33f-0f44-8cbb-92fd4b539f83</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:9776df84-f266-2145-ae15-62f24929f354</xmpMM:OriginalDocumentID>
          <xmpMM:History>
             <rdf:Seq>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>created</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:c0f425fa-f05b-9c49-9820-10e27abd84de</stEvt:instanceID>
-                  <stEvt:when>2023-08-26T16:35:51+03:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Photoshop CC 2017 (Windows)</stEvt:softwareAgent>
+                  <stEvt:instanceID>xmp.iid:9776df84-f266-2145-ae15-62f24929f354</stEvt:instanceID>
+                  <stEvt:when>2023-03-29T12:32:42+05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop 22.3 (Windows)</stEvt:softwareAgent>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:a7dc1500-1252-0448-985f-6223351b6ee3</stEvt:instanceID>
-                  <stEvt:when>2023-08-26T23:07:39+03:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Photoshop CC 2017 (Windows)</stEvt:softwareAgent>
+                  <stEvt:instanceID>xmp.iid:9469caa3-9f08-cb4b-9da7-54f7eedffcd4</stEvt:instanceID>
+                  <stEvt:when>2023-03-29T12:53:31+05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop 22.3 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:4b1e4aa1-a54e-7948-a59e-7018e2df1b60</stEvt:instanceID>
-                  <stEvt:when>2023-09-24T18:38:57+03:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Photoshop CC 2017 (Windows)</stEvt:softwareAgent>
+                  <stEvt:instanceID>xmp.iid:f60bdbf0-c39c-9f4a-b704-833170b49f44</stEvt:instanceID>
+                  <stEvt:when>2023-04-05T15:02:29+05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop 22.3 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <photoshop:ColorMode>3</photoshop:ColorMode>
-         <photoshop:ICCProfile>Adobe RGB (1998)</photoshop:ICCProfile>
+         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>
          <photoshop:TextLayers>
             <rdf:Bag>
                <rdf:li rdf:parseType="Resource">
-                  <photoshop:LayerName>777</photoshop:LayerName>
-                  <photoshop:LayerText>777</photoshop:LayerText>
+                  <photoshop:LayerName>Or Project?</photoshop:LayerName>
+                  <photoshop:LayerText>Or Project?</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Have An Idea</photoshop:LayerName>
+                  <photoshop:LayerText>Have An Idea</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Business Analysis</photoshop:LayerName>
+                  <photoshop:LayerText>Business Analysis</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>4</photoshop:LayerName>
+                  <photoshop:LayerText>4</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Market Research</photoshop:LayerName>
+                  <photoshop:LayerText>Market Research</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>3</photoshop:LayerName>
+                  <photoshop:LayerText>3</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Corporate Finance</photoshop:LayerName>
+                  <photoshop:LayerText>Corporate Finance</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>2</photoshop:LayerName>
+                  <photoshop:LayerText>2</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Strategy And Planning</photoshop:LayerName>
+                  <photoshop:LayerText>Strategy And Planning</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>1</photoshop:LayerName>
+                  <photoshop:LayerText>1</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Our Services</photoshop:LayerName>
+                  <photoshop:LayerText>Our Services</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>What We Do</photoshop:LayerName>
+                  <photoshop:LayerText>What We Do</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Contact Us</photoshop:LayerName>
+                  <photoshop:LayerText>Contact Us</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Lorem Ipsum is simply dummy text of the printing and typesettin</photoshop:LayerName>
+                  <photoshop:LayerText>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Agency</photoshop:LayerName>
+                  <photoshop:LayerText>Agency</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Marketing</photoshop:LayerName>
+                  <photoshop:LayerText>Marketing</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>Digital</photoshop:LayerName>
+                  <photoshop:LayerText>Digital</photoshop:LayerText>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <photoshop:LayerName>We Are</photoshop:LayerName>
+                  <photoshop:LayerText>We Are</photoshop:LayerText>
                </rdf:li>
             </rdf:Bag>
          </photoshop:TextLayers>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
-<?xpacket end="w"?>8BIM:printOutputPstSboolInteenumInteImg printSixteenBitboolprinterNameTEXTprintProofSetupObjc0@0<5B@K F25B>?@>1K
-proofSetupBltnenumbuiltinProofproofCMYK8BIM;-printOutputOptionsCptnboolClbrboolRgsMboolCrnCboolCntCboolLblsboolNgtvboolEmlDboolIntrboolBckgObjcRGBCRd  doub@oGrn doub@oBl  doub@oBrdTUntF#RltBld UntF#RltRsltUntF#Rlt@
-vectorDataboolPgPsenumPgPsPgPCLeftUntF#RltTop UntF#RltScl UntF#Prc@YcropWhenPrintingboolcropRectBottomlongcropRectLeftlongcropRectRightlongcropRectToplong8BIM++8BIM&?8BIMZ8BIM8BIM8BIM'
-8BIMH/fflff/ff2Z5-8BIMp8BIM8BIM8BIM08BIM-8BIM@@8BIM8BIM5nullboundsObjcRct1Top longLeftlongBtomlongRghtlongslicesVlLsObjcslicesliceIDlonggroupIDlongoriginenumESliceOriginautoGeneratedTypeenum
-ESliceTypeImg boundsObjcRct1Top longLeftlongBtomlongRghtlongurlTEXTnullTEXTMsgeTEXTaltTagTEXTcellTextIsHTMLboolcellTextTEXThorzAlignenumESliceHorzAligndefaultvertAlignenumESliceVertAligndefaultbgColorTypeenumESliceBGColorTypeNonetopOutsetlong
-leftOutsetlongbottomOutsetlongrightOutsetlong8BIM(?8BIM00ADBEmntrRGB XYZ acspAPPLnone-ADBE
-cprt2desc0kwtptbkptrTRCgTRCbTRCrXYZgXYZbXYZtextCopyright 1999 Adobe Systems IncorporateddescAdobe RGB (1998)XYZ QXYZ curv3curv3curv3XYZ OXYZ 4,XYZ &1/8BIM8BIMg99&LKAdobe_CMAdobed
-99"?
-
-3!1AQa"q2B#$Rb34rC%Scs5&DTdE£t6UeuF'Vfv7GWgw5!1AQaq"2B#R3$brCScs4%&5DTdEU6teuFVfv'7GWgw?TI%)%_^N312,ɱsvw<5"=Aat8_u]Iֹ'&kTwQ%q2׋hއ]%ѭ˹oM8sWlg>,?­4Ak'vДI"TI%!-',fM³KI&Q[95XTRr^)˟$kiI+b:HP].jXcUݔ]mZ6SEI$PI$l$I!TI%)$IJI$RI$TI%)$IJI$RI$8BIM!]Adobe PhotoshopAdobe Photoshop CC 20178BIM"2MM*bj(1"r2i''Adobe Photoshop CC 2017 (Windows)2023:09:24 18:38:57"*(2HHf?`8BIMnorm0(8BIMluni$>=8BIMlnsrbgnd8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubADe8BIMfxrp*MK8BIMnorm#(7778BIMTySh"L??@R@R2TxLrTxt TEXT777textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PntTop UntF#PntDRghtUntF#Pnt@S<BtomUntF#Pnt@(`boundingBoxObjcboundingBoxLeftUntF#Pnt@@Top UntF#Pnt@aRghtUntF#Pnt@RBtomUntF#PntTextIndexlong
-EngineDatatdtas
-3!1AQa"q2B#$Rb34rC%Scs5&DTdE£t6UeuF'Vfv7GWgw5!1AQaq"2B#R3$brCScs4%&5DTdEU6teuFVfv'7GWgw?TI%)%_^N312,ɱsvw<5"=Aat8_u]Iֹ'&kTwQ%q2׋hއ]%ѭ˹oM8sWlg>,?­4Ak'vДI"TI%!-',fM³KI&Q[95XTRr^)˟$kiI+b:HP].jXcUݔ]mZ6SEI$PI$l$I!TI%)$IJI$RI$TI%)$IJI$RI$8BIM!]Adobe PhotoshopAdobe Photoshop CC 20178BIM"2MM*bj(1"r2i''Adobe Photoshop CC 2017 (Windows)2023:09:24 18:38:57"*(2HHf?`8BIMnorm0(8BIMluni$>=8BIMlnsrbgnd8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubADe8BIMfxrp*MK8BIMnorm#(7778BIMTySh"L??@R@R2TxLrTxt TEXT777textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PntTop UntF#PntDRghtUntF#Pnt@S<BtomUntF#Pnt@(`boundingBoxObjcboundingBoxLeftUntF#Pnt@@Top UntF#Pnt@aRghtUntF#Pnt@RBtomUntF#PntTextIndexlong
-EngineDatatdtas
-
+<?xpacket end="w"?>8BIM:printOutputPstSboolInteenumInteClrmprintSixteenBitboolprinterNameTEXTprintProofSetupObjcProof Setup
+proofSetupBltnenumbuiltinProofproofCMYK8BIM;-printOutputOptionsCptnboolClbrboolRgsMboolCrnCboolCntCboolLblsboolNgtvboolEmlDboolIntrboolBckgObjcRGBCRd  doub@oGrn doub@oBl  doub@oBrdTUntF#RltBld UntF#RltRsltUntF#Pxl@r
+vectorDataboolPgPsenumPgPsPgPCLeftUntF#RltTop UntF#RltScl UntF#Prc@YcropWhenPrintingboolcropRectBottomlongcropRectLeftlong
+cropRectRightlongcropRectToplong8BIM,,8BIM&?8BIM
+8BIM
+Z8BIM8BIM8BIM'
+8BIMH/fflff/ff2Z5-8BIMp8BIM=8BIM|8BIM0>8BIM-8BIM8@@@@8BIM8BIMa8Busniess-Web-Banner-208nullboundsObjcRct1Top longLeftlongBtomlong8RghtlongslicesVlLsObjcslicesliceIDlonggroupIDlongoriginenumESliceOrigin
+autoGeneratedTypeenum
+ESliceTypeImg boundsObjcRct1Top longLeftlongBtomlong8RghtlongurlTEXTnullTEXTMsgeTEXTaltTagTEXTcellTextIsHTMLboolcellTextTEXThorzAlignenumESliceHorzAligndefaultvertAlignenumESliceVertAligndefaultbgColorTypeenumESliceBGColorTypeNonetopOutsetlong
+leftOutsetlongbottomOutsetlongrightOutsetlong8BIM(?8BIMHHLinomntrRGB XYZ 1acspMSFTIEC sRGB-HP  cprtP3desclwtptbkptrXYZgXYZ,bXYZ@dmndTpdmddvuedLview$lumimeas$tech0rTRC<gTRC<bTRC<textCopyright (c) 1998 Hewlett-Packard CompanydescsRGB IEC61966-2.1sRGB IEC61966-2.1XYZ QXYZ XYZ o8XYZ bXYZ $descIEC http://www.iec.chIEC http://www.iec.chdesc.IEC 61966-2.1 Default RGB colour space - sRGB.IEC 61966-2.1 Default RGB colour space - sRGBdesc,Reference Viewing Condition in IEC61966-2.1,Reference Viewing Condition in IEC61966-2.1view_.\XYZ LVPWmeassig CRT curv
+#(-27;@EJOTY^chmrw|
+%+28>ELRY`gnu|&/8AKT]gqz!-8COZfr~ -;HUcq~
++:IXgw'7HYj{+=Oat2FZn%:Ody
+'
+=
+T
+j
+"9Qi*C\u
+&
+@
+Z
+t
+.Id%A^z&Ca~1Om&Ed#Cc'Ij4Vx&IlAe@e Ek*Qw;c*R{Gp@j>i  A l   !!H!u!!!"'"U"""#
+#8#f###$$M$|$$%%8%h%%%&'&W&&&''I'z''(
+(?(q(())8)k))**5*h**++6+i++,,9,n,,--A-v--..L.../$/Z///050l0011J1112*2c223
+3F3334+4e4455M555676r667$7`7788P8899B999:6:t::;-;k;;<'<e<<="=a==> >`>>?!?a??@#@d@@A)AjAAB0BrBBC:C}CDDGDDEEUEEF"FgFFG5G{GHHKHHIIcIIJ7J}JKKSKKL*LrLMMJMMN%NnNOOIOOP'PqPQQPQQR1R|RSS_SSTBTTU(UuUVV\VVWDWWX/X}XYYiYZZVZZ[E[[\5\\]']x]^^l^__a_``W``aOaabIbbcCccd@dde=eef=ffg=ggh?hhiCiijHjjkOkklWlmm`mnnknooxop+ppq:qqrKrss]sttptu(uuv>vvwVwxxnxy*yyzFz{{c{|!||}A}~~b~#G
+k͂0WGrׇ;iΉ3dʋ0cʍ1fΏ6n֑?zM _ɖ4
+uL$h՛BdҞ@iءG&vVǥ8nRĩ7u\ЭD-u`ֲK³8%yhYѹJº;.!
+zpg_XQKFAǿ=ȼ:ɹ8ʷ6˶5̵5͵6ζ7ϸ9к<Ѿ?DINU\dlvۀ܊ݖޢ)߯6DScs
+2F[p(@Xr4Pm8Ww)Km8BIM8BIMZgAdobe_CMAdobed
+Z"
+?
+3!1AQa"q2B#$Rb34rC%Scs5&DTdE£t6UeuF'Vfv7GWgw5!1AQaq"2B#R3$brCScs4%&5DTdEU6teuFVfv'7GWgw?I%)$$LJRI&))5"%ECwV}_M5GGMjyZ\kRC?oQ-/Iu=j={vUX L>e`|G'i#|G{0?O=@MQF?m"EZ|\sV?WӎWɔ˕lxRf~ݬtÐII/,jMUZ'ִ}ߣ~EG'oINn?~f>uo7_]%$p,XcUm}RZEuulnۼe=UofKgFku{c5VHe%"}ݏ{}O8]oO)q']Pƹh2sfϠ:Jͺ12[mẍޏk[guLwTm)%MkKֺ">ϡ~ژn\CunmYvRSߗRsT[ʑ?)Z;CGh3}R$bGtuz83}ak{]Kv,E7uHhGG1gzcdOz.LHr/ %6P5SEٱދI~~ܺQ=9zgS!Y@?dVqFߢ?r^3rzG?z%DYk*`P
+@}w*Ii<ni܅adTl}Ok7ZyMʷUv:BnyZjâ:i{r{vRًS/at;8Wǫm!{}mGOWSc:8
+y:XX>ezK7gOPAea6ϾWcz(ߺMt2u
+uueS[j2_2P`#:Ԫ66ӅMPߵY)9֨}9,U]55
+FoG)λӾ^Yƶ!PN1m?;_[ӡkccWn%p&^qպsIȪۡllאc
+TX5/?#?(ܬn6ǱvS^Qѳjݶ[]nt
+evݯzo68uQ|Wz.2ȗ\W>
+1֙W3SmtvUCH%UZ\\|Ua`UtU42=\ֲ=lhbo{րaˉJ\_7_se>`,01x&?y-uY{/?3D6W7$Υl\'ЍCNKG_7#lr{SM8nu!6:;hkc?1^i!
+52[CGB ]0D"%|zd$$)0t~);jTҳoq|VZCȮTF;rJ|ו,{icZ"P7u>gWz&E]>{0sY"886GmWӧ]Ž/S곥s
+M Q^ѨY
+cѪqM
+?oIOMV :豧>339<9zr27r8ov?[^QgKUvemo%\=1=]+U0kmf+_6c}̻n罾YDS[)V![Z63R,#6;q
+ĻS@"OyOgIH[@:O͔c~68y-zkÌ|%Բ>џ}VmT>)\{t *aAM`Z'y0$Y 't4ttpnY+!!2Z<S`Ff&ԬeU\C-cCyȲ6tiGj䄤c3
+އb%;puߔ6
+lv{ Z{GmAk7bDWz>:nRHv~EdQI3NGB`tHA?DN6`;[ețRncDsKch{^iG5wkSa}`ٴ7&+ACa̿kd
+ԇm W'ޟCژ*US+'Ɔ;BG,>ݟOY̰{t1ܡ~WQX$LIiS(3u3Y@n<Yb;A++{o%52w^>l%YܹV5Dy`uj"{V%N+8q?WkxpHƘHcN
+NPFU4
+]Lɟ]}ug2/lip^뮟Ye&8>hQ-U˘37.'#rE~v'?kK@i%FɂeX k2h@n@5'`Mk-eĝ`>:$֭p&6v'-ڨeu*.ATP?80C&ǂdşLqChm?dVfD?[)Aĺ˱)ֵZƹc45
+"[3w_M`򒒝u4JRS@ݧH?&wII!^#hM}vWX;?=Sr5O;#NI3'gIv_N,'9O{PO՘6;7#,N@c!/jⱿu??k%n>;}ח븿{'3NĽ>pSR:lnA6=HUܜ=ʫg~-aѱ4-c~%}/xrO玲wIPޞp־x(k@E 58BIM!WAdobe PhotoshopAdobe Photoshop 20218BIM"2MM*bj(1r2i-'-'Adobe Photoshop 22.3 (Windows)2023:04:05 15:02:298"*(2HHgH^>8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\.8BIMfxrp88BIMnorm(Bg8BIMSoCopnullClr ObjcRGBCRd  doub@mGrn doub@mBl  doub@m8BIMluniBg8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\/b8BIMfxrp:^q;<;<;<8BIMnorm(Shape8BIMvscgtSoConullClr ObjcRGBCRd  doub@oGrn doub@^Bl  doub8BIMvsms<gg8<gg8<gg8RRRjEjEjE<~<~<~8BIMluniShape8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\/8BIMvstk<strokeStylestrokeStyleVersionlong
+strokeEnabledboolfillEnabledboolstrokeStyleLineWidthUntF#PxlstrokeStyleLineDashOffsetUntF#PntstrokeStyleMiterLimitdoub@YstrokeStyleLineCapTypeenumstrokeStyleLineCapTypestrokeStyleButtCapstrokeStyleLineJoinTypeenumstrokeStyleLineJoinTypestrokeStyleMiterJoinstrokeStyleLineAlignmentenumstrokeStyleLineAlignmentstrokeStyleAlignCenterstrokeStyleScaleLockboolstrokeStyleStrokeAdjustboolstrokeStyleLineDashSetVlLsstrokeStyleBlendModeenumBlnMNrmlstrokeStyleOpacityUntF#Prc@YstrokeStyleContentObjcsolidColorLayerClr ObjcRGBCRd  doub@^Grn doub@T+Bl  doub@IstrokeStyleResolutiondoub@r8BIMfxrp@~zrÜ8BIMlyvr8P6~-8BIMmul 4(
+Texture-018BIMluni
+Texture-018BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\/8BIMfxrp8r+++8BIMlddgs((Noise8BIMluniNoise8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\08BIMfxrp8BIMnorm (
+Background8BIMluni
+Background8BIMlyid8BIMlsct8BIMpass8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\0F8BIMfxrp8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\08BIMfxrp@x<'8BIMnorm(Shape-068BIMvscgtSoConullClr ObjcRGBCRd  doub@oGrn doub@]Bl  doub8BIMvsmsDDD;;;2%|/2%|/2%|/\\\8BIMluniShape-068BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\08BIMvstk<strokeStylestrokeStyleVersionlong
+strokeEnabledboolfillEnabledboolstrokeStyleLineWidthUntF#PxlstrokeStyleLineDashOffsetUntF#PntstrokeStyleMiterLimitdoub@YstrokeStyleLineCapTypeenumstrokeStyleLineCapTypestrokeStyleButtCapstrokeStyleLineJoinTypeenumstrokeStyleLineJoinTypestrokeStyleMiterJoinstrokeStyleLineAlignmentenumstrokeStyleLineAlignmentstrokeStyleAlignCenterstrokeStyleScaleLockboolstrokeStyleStrokeAdjustboolstrokeStyleLineDashSetVlLsstrokeStyleBlendModeenumBlnMNrmlstrokeStyleOpacityUntF#Prc@YstrokeStyleContentObjcsolidColorLayerClr ObjcRGBCRd  doub@^Grn doub@T+Bl  doub@IstrokeStyleResolutiondoub@r8BIMfxrp@n&M.7;8BIMlyvr
+vvv8BIMnorm(Shape-058BIMvscgtSoConullClr ObjcRGBCRd  doub@PGrn doub@PBl  doub@P8BIMvsms888$,$,$,eqeqeqWWW8BIMluniShape-058BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\08BIMvstk<strokeStylestrokeStyleVersionlong
+strokeEnabledboolfillEnabledboolstrokeStyleLineWidthUntF#PxlstrokeStyleLineDashOffsetUntF#PntstrokeStyleMiterLimitdoub@YstrokeStyleLineCapTypeenumstrokeStyleLineCapTypestrokeStyleButtCapstrokeStyleLineJoinTypeenumstrokeStyleLineJoinTypestrokeStyleMiterJoinstrokeStyleLineAlignmentenumstrokeStyleLineAlignmentstrokeStyleAlignCenterstrokeStyleScaleLockboolstrokeStyleStrokeAdjustboolstrokeStyleLineDashSetVlLsstrokeStyleBlendModeenumBlnMNrmlstrokeStyleOpacityUntF#Prc@YstrokeStyleContentObjcsolidColorLayerClr ObjcRGBCRd  doub@^Grn doub@T+Bl  doub@IstrokeStyleResolutiondoub@r8BIMfxrp@-g.{ot|8BIMlyvrX:
+8BIMnorm(Shape-048BIMvscgtSoConullClr ObjcRGBCRd  doub@oGrn doub@]Bl  doub8BIMvsms<L<L<L&&&9i9i9i<4<4<48BIMluniShape-048BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\108BIMvstk<strokeStylestrokeStyleVersionlong
+strokeEnabledboolfillEnabledboolstrokeStyleLineWidthUntF#PxlstrokeStyleLineDashOffsetUntF#PntstrokeStyleMiterLimitdoub@YstrokeStyleLineCapTypeenumstrokeStyleLineCapTypestrokeStyleButtCapstrokeStyleLineJoinTypeenumstrokeStyleLineJoinTypestrokeStyleMiterJoinstrokeStyleLineAlignmentenumstrokeStyleLineAlignmentstrokeStyleAlignCenterstrokeStyleScaleLockboolstrokeStyleStrokeAdjustboolstrokeStyleLineDashSetVlLsstrokeStyleBlendModeenumBlnMNrmlstrokeStyleOpacityUntF#Prc@YstrokeStyleContentObjcsolidColorLayerClr ObjcRGBCRd  doub@^Grn doub@T+Bl  doub@IstrokeStyleResolutiondoub@r8BIMfxrp@s&@h#Xl8BIMlyvr`9
+yfff8BIMnorm(Shape-038BIMvscgtSoConullClr ObjcRGBCRd  doub@PGrn doub@PBl  doub@P8BIMvsmsQQQ000ӸӸӸ
+8BIMluniShape-038BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\1k8BIMvstk<strokeStylestrokeStyleVersionlong
+strokeEnabledboolfillEnabledboolstrokeStyleLineWidthUntF#PxlstrokeStyleLineDashOffsetUntF#PntstrokeStyleMiterLimitdoub@YstrokeStyleLineCapTypeenumstrokeStyleLineCapTypestrokeStyleButtCapstrokeStyleLineJoinTypeenumstrokeStyleLineJoinTypestrokeStyleMiterJoinstrokeStyleLineAlignmentenumstrokeStyleLineAlignmentstrokeStyleAlignCenterstrokeStyleScaleLockboolstrokeStyleStrokeAdjustboolstrokeStyleLineDashSetVlLsstrokeStyleBlendModeenumBlnMNrmlstrokeStyleOpacityUntF#Prc@YstrokeStyleContentObjcsolidColorLayerClr ObjcRGBCRd  doub@^Grn doub@T+Bl  doub@IstrokeStyleResolutiondoub@r8BIMfxrp@X@w!/8BIMlyvr_
+rrr8BIMnorm`(Shape-028BIMvscgtSoConullClr ObjcRGBCRd  doub@oGrn doub@]Bl  doub8BIMvsmsccchihihi\l\l\leMeMeM8BIMvogknullkeyDescriptorListVlLsObjcnull
+keyOriginTypelongkeyOriginResolutiondoub@rkeyOriginShapeBBoxObjcunitRectunitValueQuadVersionlongTop UntF#Pxl`NLeftUntF#Pxl@{|-+$BtomUntF#Pxl@pPG&RghtUntF#Pxl@imkeyOriginBoxCornersObjcnullrectangleCornerAObjcPnt Hrzndoub@smRVrtcdoub`NrectangleCornerBObjcPnt Hrzndoub@imVrtcdoubYEě=rectangleCornerCObjcPnt Hrzndoub@7Vrtcdoub@pPG&rectangleCornerDObjcPnt Hrzndoub@{|-+$Vrtcdoub@mbMTrnfObjc
+TransformTrnfxxdoub?gC"yR*xydoub??fMyxdoub?fMyydoub?gC"yR,txdoub@v;ŋtydoubg3!keyShapeInvalidatedboolkeyOriginIndexlong8BIMluniShape-028BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\18BIMvstk<strokeStylestrokeStyleVersionlong
+strokeEnabledboolfillEnabledboolstrokeStyleLineWidthUntF#PxlstrokeStyleLineDashOffsetUntF#PntstrokeStyleMiterLimitdoub@YstrokeStyleLineCapTypeenumstrokeStyleLineCapTypestrokeStyleButtCapstrokeStyleLineJoinTypeenumstrokeStyleLineJoinTypestrokeStyleMiterJoinstrokeStyleLineAlignmentenumstrokeStyleLineAlignmentstrokeStyleAlignCenterstrokeStyleScaleLockboolstrokeStyleStrokeAdjustboolstrokeStyleLineDashSetVlLsstrokeStyleBlendModeenumBlnMNrmlstrokeStyleOpacityUntF#Prc@YstrokeStyleContentObjcsolidColorLayerClr ObjcRGBCRd  doub@^Grn doub@T+Bl  doub@IstrokeStyleResolutiondoub@r8BIMfxrp@F@KuJfd8BIMlyvrL8BIMnorm`(Shape-018BIMvscgtSoConullClr ObjcRGBCRd  doub@PGrn doub@PBl  doub@P8BIMvsms>>>BylBylBylddda$={a$={a$={8BIMvogknullkeyDescriptorListVlLsObjcnull
+keyOriginTypelongkeyOriginResolutiondoub@rkeyOriginShapeBBoxObjcunitRectunitValueQuadVersionlongTop UntF#Pxl`NLeftUntF#Pxl@{|-+$BtomUntF#Pxl@pPG&RghtUntF#Pxl@imkeyOriginBoxCornersObjcnullrectangleCornerAObjcPnt Hrzndoub@smRVrtcdoub`NrectangleCornerBObjcPnt Hrzndoub@imVrtcdoubYEě=rectangleCornerCObjcPnt Hrzndoub@7Vrtcdoub@pPG&rectangleCornerDObjcPnt Hrzndoub@{|-+$Vrtcdoub@mbMTrnfObjc
+TransformTrnfxxdoub?gC"yR*xydoub??fMyxdoub?fMyydoub?gC"yR,txdoub@v;ŋtydoubg3!keyShapeInvalidatedboolkeyOriginIndexlong8BIMluniShape-018BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\18BIMvstk<strokeStylestrokeStyleVersionlong
+strokeEnabledboolfillEnabledboolstrokeStyleLineWidthUntF#PxlstrokeStyleLineDashOffsetUntF#PntstrokeStyleMiterLimitdoub@YstrokeStyleLineCapTypeenumstrokeStyleLineCapTypestrokeStyleButtCapstrokeStyleLineJoinTypeenumstrokeStyleLineJoinTypestrokeStyleMiterJoinstrokeStyleLineAlignmentenumstrokeStyleLineAlignmentstrokeStyleAlignCenterstrokeStyleScaleLockboolstrokeStyleStrokeAdjustboolstrokeStyleLineDashSetVlLsstrokeStyleBlendModeenumBlnMNrmlstrokeStyleOpacityUntF#Prc@YstrokeStyleContentObjcsolidColorLayerClr ObjcRGBCRd  doub@^Grn doub@T+Bl  doub@IstrokeStyleResolutiondoub@r8BIMfxrp@J}n=8BIMlyvr8BIMnorm0(Design-Elements8BIMluni$Design-Elements8BIMlyid8BIMlsct8BIMpass8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\28BIMfxrp@x8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\2K8BIMfxrp@x8BIMnorm%h(Shadow8BIMlfx2null
+Scl UntF#Prc@z
+masterFXSwitchbooldropShadowMultiVlLsObjcDrShenabboolpresentboolshowInDialogboolMd  enumBlnMNrmlClr ObjcRGBCRd  doubGrn doubBl  doubOpctUntF#Prc@KuglgboollaglUntF#Ang@T@DstnUntF#Pxl@jCkmtUntF#PxlblurUntF#Pxl@o@NoseUntF#Prc@AntAboolTrnSObjcShpCNm  TEXTLinearCrv VlLsObjcCrPtHrzndoubVrtcdoubObjcCrPtHrzndoub@oVrtcdoub@o
+layerConcealsboolinnerShadowMultiVlLsObjcIrShenabboolpresentboolshowInDialogboolMd  enumBlnMMltpClr ObjcRGBCRd  doubGrn doubBl  doubOpctUntF#Prc@IuglgboollaglUntF#Ang@VDstnUntF#PxlCkmtUntF#PxlblurUntF#Pxl@^@NoseUntF#PrcAntAboolTrnSObjcShpCNm  TEXTLinearCrv VlLsObjcCrPtHrzndoubVrtcdoubObjcCrPtHrzndoub@oVrtcdoub@oOrGlObjcOrGlenabboolpresentboolshowInDialogboolMd  enumBlnMScrnClr ObjcRGBCRd  doub@oGrn doub@^ Bl  doub@^ OpctUntF#Prc@NGlwTenumBETESfBLCkmtUntF#Pxl@ blurUntF#Pxl@_@NoseUntF#PrcShdNUntF#PrcAntAboolTrnSObjcShpCNm  TEXTLinearCrv VlLsObjcCrPtHrzndoubVrtcdoubObjcCrPtHrzndoub@oVrtcdoub@oInprUntF#Prc@ISoFiObjcSoFienabboolpresentboolshowInDialogboolMd  enumBlnMMltpClr ObjcRGBCRd  doub@G`Grn doub@GhBl  doub@GhOpctUntF#Prc@U@gradientFillMultiVlLsObjcGrFl
+enabboolpresentboolshowInDialogboolMd  enumBlnMNrmlOpctUntF#Prc@YGradObjcGradientGrdnNm  TEXTCustomGrdFenumGrdFCstSIntrdoub@ClrsVlLsObjcClrtClr ObjcRGBCRd  doub@MGrn doub@V@)Bl  doub@Z%TypeenumClryUsrSLctnlongMdpnlong2ObjcClrtClr ObjcRGBCRd  doub@U
+Grn doub@_
+@Bl  doub@b
+@TypeenumClryUsrSLctnlongMdpnlong(TrnsVlLsObjcTrnSOpctUntF#Prc@XLctnlongMdpnlong2ObjcTrnSOpctUntF#Prc@YLctnlongMdpnlong2AnglUntF#Ang@VTypeenumGrdTLnr RvrsboolDthrboolAlgnboolScl UntF#Prc@YOfstObjcPnt HrznUntF#Prc@"#r8VrtcUntF#Prc?玈patternFillObjcpatternFill
+enabboolpresentboolshowInDialogboolMd  enumBlnMOvrlOpctUntF#Prc@PtrnObjcPtrnNm  TEXTEid-Al-Adha-Banner-06.psdIdntTEXT%2365ebac-fec0-b940-81f0-016313200920AnglUntF#AngScl UntF#Prc@5AlgnboolphaseObjcPnt HrzndoubVrtcdoubframeFXMultiVlLsObjcFrFX
+enabboolpresentboolshowInDialogboolStylenumFStlOutFPntTenumFrFlSClrMd  enumBlnMNrmlOpctUntF#Prc@YSz  UntF#Pxl@jClr ObjcRGBCRd  doub@m`Grn doub@:Bl  doub@ooverprintboolIrGlObjcIrGlenabboolpresentboolshowInDialogboolMd  enumBlnMNrmlClr ObjcRGBCRd  doub@oGrn doub@oBBl  doub@oOpctUntF#Prc@YGlwTenumBETESfBLCkmtUntF#Pxl@YblurUntF#PxlNoseUntF#PrcShdNUntF#PrcAntAboolTrnSObjcShpCNm  TEXTLinearCrv VlLsObjcCrPtHrzndoubVrtcdoubObjcCrPtHrzndoub@oVrtcdoub@oInprUntF#Prc@IglwSenumIGSrSrcEebblObjcebblenabboolpresentboolshowInDialogboolhglMenumBlnMNrmlhglCObjcRGBCRd  doub@oGrn doub@oBBl  doub@ohglOUntF#Prc@IsdwMenumBlnMOvrlsdwCObjcRGBCRd  doub?̄Grn doub?d Bl  doub?ް@sdwOUntF#Prc@@bvlTenumbvlTSfBLbvlSenumBESlInrBuglgboollaglUntF#Ang@VLaldUntF#Ang@>srgRUntF#Prc@YblurUntF#PxlbvlDenumBESsIn  TrnSObjcShpCNm  TEXTLinearCrv VlLsObjcCrPtHrzndoubVrtcdoubObjcCrPtHrzndoub@oVrtcdoub@oantialiasGlossboolSftnUntF#PxluseShapebool
+useTextureboolChFXObjcChFXenabboolpresentboolshowInDialogboolMd  enumBlnMMltpClr ObjcRGBCRd  doub?̄Grn doub?d Bl  doub?ް@AntAboolInvrboolOpctUntF#Prc@IlaglUntF#Ang@VDstnUntF#Pxl@*blurUntF#Pxl@5MpgSObjcShpCNm  TEXTLinearCrv VlLsObjcCrPtHrzndoubVrtcdoubObjcCrPtHrzndoub@oVrtcdoub@onumModifyingFXlong8BIMlrFX8BIMcmnS8BIMdsdw3Q8BIMnorm8BIMisdw3yZ8BIMmul 8BIMoglw*}{z{z8BIMscrn{z{z8BIMiglw+8BIMnorm8BIMbevlNZ8BIMnorm8BIMover8nXT8nX8BIMsofi"8BIMmul /.../...8BIMluniShadow8BIMlyid8BIMiOpa8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\38BIMPlLdplcL$3298c2d6-8246-834c-acd2-cde0d32e3212@û@P@:"p@P@:"p@F@û@FwarpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrznboundsObjcclassFloatRectTop doubLeftdoubBtomdoub@Rghtdoub@uOrderlongvOrderlong8BIMSoLdsoLDnullIdntTEXT%3298c2d6-8246-834c-acd2-cde0d32e3212placedTEXT%af3223db-1640-af44-95be-4c7b543a0e9dPgNmlong
+totalPageslongCroplongframeStepObjcnullnumeratorlongdenominatorlongXdurationObjcnullnumeratorlongdenominatorlongX
+frameCountlongAnntlongTypelongTrnfVlLsdoub@ûdoub@Pdoub@:"pdoub@Pdoub@:"pdoub@Fdoub@ûdoub@FnonAffineTransformVlLsdoub@ûdoub@Pdoub@:"pdoub@Pdoub@:"pdoub@Fdoub@ûdoub@FwarpObjcwarpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrznboundsObjcclassFloatRectTop doubLeftdoubBtomdoub@Rghtdoub@uOrderlongvOrderlongSz  ObjcPnt Wdthdoub@Hghtdoub@RsltUntF#Rsl@rfilterFXObjc
+filterFXStyleenabboolvalidAtPositionboolfilterMaskEnableboolfilterMaskLinkedboolfilterMaskExtendWithWhiteboolfilterFXListVlLsObjcfilterFXNm  TEXTGaussian Blur...blendOptionsObjcblendOptionsOpctUntF#Prc@YMd  enumBlnMNrmlenabbool
+hasoptionsboolFrgCObjcHSBCH   UntF#Ang@jHStrtdoubBrghdoubBckCObjcHSBCH   UntF#AngStrtdoubBrghdoub@YFltrObjcGaussian BlurGsnBRds UntF#Pxl@ filterIDlongGsnBObjcfilterFXNm  TEXTMotion Blur...blendOptionsObjcblendOptionsOpctUntF#Prc@YMd  enumBlnMNrmlenabbool
+hasoptionsboolFrgCObjcHSBCH   UntF#Ang@jHStrtdoubBrghdoubBckCObjcHSBCH   UntF#AngStrtdoubBrghdoub@YFltrObjcMotion BlurMtnBAngllongDstnUntF#Pxl@YfilterIDlongMtnBcomplongcompInfoObjcnullcompIDlongoriginalCompIDlong8BIMfxrp@û@PcW8BIMnormD(Double-Click-Here8BIMluni(Double-Click-Here8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\5R8BIMPlLdplcL$3298c2d6-8246-834c-acd2-cde0d32e3212@@D@"p@D@"p@@@warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrznboundsObjcclassFloatRectTop doubLeftdoubBtomdoub@Rghtdoub@uOrderlongvOrderlong8BIMSoLdsoLDnullIdntTEXT%3298c2d6-8246-834c-acd2-cde0d32e3212placedTEXT%e5aa0a4e-8280-7e49-901d-97a06fbb080fPgNmlong
+totalPageslongCroplongframeStepObjcnullnumeratorlongdenominatorlongXdurationObjcnullnumeratorlongdenominatorlongX
+frameCountlongAnntlongTypelongTrnfVlLsdoub@doub@Ddoub@"pdoub@Ddoub@"pdoub@doub@doub@nonAffineTransformVlLsdoub@doub@Ddoub@"pdoub@Ddoub@"pdoub@doub@doub@warpObjcwarpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+8BIMnorm$(Glow-Effect8BIMluniGlow-Effect8BIMlyid8BIMlsct8BIMpass8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\678BIMfxrp@y8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\6n8BIMfxrp@lQ Lr8BIMnorm)(Or Project?8BIMTySh(,?"k1W?"k1Z@ٚ@@} P2TxLrTxt TEXTOr Project?textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#Pxl\PTop UntF#PxlG>RghtUntF#Pxl@\pBtomUntF#Pxl@0HboundingBoxObjcboundingBoxLeftUntF#Pxl\PTop UntF#PxlERghtUntF#Pxl@\PBtomUntF#PxlTextIndexlong
+EngineDatatdta%B
 <<
-   /EngineDict
-      <<
-         /Editor
-            <<
-               /Text (777)
-            >>
-         /ParagraphRun
-            <<
-               /DefaultRunData
-                  <<
-                     /ParagraphSheet
-                        <<
-                           /DefaultStyleSheet 0
-                           /Properties
-                              <<
-                              >>
-                        >>
-                     /Adjustments
-                        <<
-                           /Axis [ 1.0 0.0 1.0 ]
-                           /XY [ 0.0 0.0 ]
-                        >>
-                  >>
-               /RunArray [
-                  <<
-                     /ParagraphSheet
-                        <<
-                           /Name (07>2K9 017
+/EngineDict
 <<
-   /EngineDict
-      <<
-         /Editor
-            <<
-               /Text (777)
-            >>
-         /ParagraphRun
-            <<
-               /DefaultRunData
-                  <<
-                     /ParagraphSheet
-                        <<
-                           /DefaultStyleSheet 0
-                           /Properties
-                              <<
-                              >>
-                        >>
-                     /Adjustments
-                        <<
-                           /Axis [ 1.0 0.0 1.0 ]
-                           /XY [ 0.0 0.0 ]
-                        >>
-                     >>
-                     /RunArray [
-                        <<
-                           /ParagraphSheet
-                              <<
-                                 /Name (07>2K9 0170F)
-                                 /DefaultStyleSheet 0
-                                 /Properties
-                                    <<
-                                       /Justification 0
-                                       /FirstLineIndent 0.0
-                                       /StartIndent 0.0
-                                       /EndIndent 0.0
-                                       /SpaceBefore 0.0
-                                       /SpaceAfter 0.0
-                                       /AutoHyphenate false
-                                       /HyphenatedWordSize 6
-                                       /PreHyphen 2
-                                       /PostHyphen 2
-                                       /ConsecutiveHyphens 8
-                                       /Zone 36.0
-                                       /WordSpacing [ .8 1.0 1.33 ]
-                                       /LetterSpacing [ 0.0 0.0 0.0 ]
-                                       /GlyphSpacing [ 1.0 1.0 1.0 ]
-                                       /AutoLeading 1.2
-                                       /LeadingType 0
-                                       /Hanging false
-                                       /Burasagari false
-                                       /KinsokuOrder 0
-                                       /EveryLineComposer false
-                                    >>
-                              >>
-                           /Adjustments
-                              <<
-                                 /Axis [ 1.0 0.0 1.0 ]
-                                 /XY [ 0.0 0.0 ]
-                              >>
-                        >>
-                     ]
-                     /RunLengthArray [ 4 ]
-                     /IsJoinable 1
-                  >>
-               /StyleRun
-                  <<
-                     /DefaultRunData
-                        <<
-                           /StyleSheet
-                           <<
-                              /StyleSheetData
-                              <<
-                              >>
-                           >>
-                        >>
-                     /RunArray [
-                        <<
-                           /StyleSheet
-                           <<
-                              /StyleSheetData
-                              <<
-                              /AutoKerning true
-                              /Kerning 0
-                                 /FillColor
-                                 <<
-                                 /Type 1
-                                 /Values [ 1.0 .72549 .13941 .13941 ]
-                                 >>
-                                 /StrokeColor
-                                 <<
-                                 /Type 1
-                                 /Values [ 1.0 .4426 .4426 .4426 ]
-                                 >>
-                              >>
-                           >>
-                        >>
-                     ]
-                     /RunLengthArray [ 4 ]
-                     /IsJoinable 2
-                  >>
-               /GridInfo
-                  <<
-                     /GridIsOn false
-                     /ShowGrid false
-                     /GridSize 18.0
-                     /GridLeading 22.0
-                     /GridColor
-                     <<
-                     /Type 1
-                     /Values [ 0.0 0.0 0.0 1.0 ]
-                     >>
-                     /GridLeadingFillColor
-                     <<
-                     /Type 1
-                     /Values [ 0.0 0.0 0.0 1.0 ]
-                     >>
-                     /AlignLineHeightToGridFlags false
-                  >>
-               /AntiAlias 4
-               /UseFractionalGlyphWidths true
-               /Rendered
-                  <<
-                     /Version 1
-                     /Shapes
-                        <<
-                           /WritingDirection 0
-                           /Children [
-                              <<
-                                 /ShapeType 0
-                                 /Procession 0
-                                 /Lines
-                                    <<
-                                       /WritingDirection 0
-                                       /Children [ ]
-                                    >>
-                                 /Cookie
-                                 <<
-                                    /Photoshop
-                                       <<
-                                          /ShapeType 0
-                                          /PointBase [ 0.0 0.0 ]
-                                          /Base
-                                          <<
-                                             /ShapeType 0
-                                             /TransformPoint0 [ 1.0 0.0 ]
-                                             /TransformPoint1 [ 0.0 1.0 ]
-                                             /TransformPoint2 [ 0.0 0.0 ]
-                                          >>
-                                       >>
-                                 >>
-                              >>
-                           ]
-                        >>
-                  >>
-      >>
-   /ResourceDict
-      <<
-         /KinsokuSet [
-         <<
-         /Name (PhotoshopKinsokuHard)
-         /NoStart (0000   0=]00000000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
-         /NoEnd (  0;[00
-         000\([{ 0)
-         /Keep (  %)
-         /Hanging (00.,)
-         >>
-         <<
-         /Name (PhotoshopKinsokuSoft)
-         /NoStart (000  0=]0000000000)
-         /NoEnd (  0;[00
-         000)
-         /Keep (  %)
-         /Hanging (00.,)
-         >>
-         ]
-         /MojiKumiSet [
-            <<
-            /InternalName (Photoshop6MojiKumiSet1)
-            >>
-            <<
-            /InternalName (Photoshop6MojiKumiSet2)
-            >>
-            <<
-            /InternalName (Photoshop6MojiKumiSet3)
-            >>
-            <<
-            /InternalName (Photoshop6MojiKumiSet4)
-            >>
-         ]
-         /TheNormalStyleSheet 0
-         /TheNormalParagraphSheet 0
-         /ParagraphSheetSet [
-         <<
-         /Name (>@<0;L=K9 RGB)
-         /DefaultStyleSheet 0
-         /Properties
-            <<
-            /Justification 0
-            /FirstLineIndent 0.0
-            /StartIndent 0.0
-            /EndIndent 0.0
-            /SpaceBefore 0.0
-            /SpaceAfter 0.0
-            /AutoHyphenate true
-            /HyphenatedWordSize 6
-            /PreHyphen 2
-            /PostHyphen 2  
-            /ConsecutiveHyphens 8
-            /Zone 36.0
-            /WordSpacing [ .8 1.0 1.33 ]
-            /LetterSpacing [ 0.0 0.0 0.0 ]
-            /GlyphSpacing [ 1.0 1.0 1.0 ]
-            /AutoLeading 1.2
-            /LeadingType 0
-            /Hanging false
-            /Burasagari false
-            /KinsokuOrder 0
-            /EveryLineComposer false
-            >>
-         >>
-         ]
-         /StyleSheetSet [
-         <<
-            /Name (>@<0;L=K9 RGB)
-            /StyleSheetData
-            <<
-               /Font 1
-               /FontSize 12.0
-               /FauxBold false
-               /FauxItalic false
-               /AutoLeading true
-               /Leading 0.0
-               /HorizontalScale 1.0
-               /VerticalScale 1.0
-               /Tracking 0
-               /AutoKerning true
-               /Kerning 0
-               /BaselineShift 0.0
-               /FontCaps 0
-               /FontBaseline 0
-               /Underline false
-               /Strikethrough false
-               /Ligatures true
-               /DLigatures false
-               /BaselineDirection 2
-               /Tsume 0.0
-               /StyleRunAlignment 2
-               /Language 0
-               /NoBreak false
-               /FillColor
-                  <<
-                  /Type 1
-                  /Values [ 1.0 0.0 0.0 0.0 ]
-                  >>
-                  /StrokeColor
-                  <<
-                  /Type 1
-                  /Values [ 1.0 0.0 0.0 0.0 ]
-                  >>
-               /FillFlag true
-               /StrokeFlag false
-               /FillFirst true
-               /YUnderline 1
-               /OutlineWidth 1.0
-               /CharacterDirection 0
-               /HindiNumbers false
-               /Kashida 1
-               /DiacriticPos 2
-            >>
-         >>
-         ]
-         /FontSet [
-         <<
-         /Name (AdobeInvisFont)
-         /Script 0
-         /FontType 0
-         /Synthetic 0
-         >>
-            <<
-            /Name (MyriadPro-Regular)
-            /Script 0
-            /FontType 0
-            /Synthetic 0
-            >>
-         ]
-         /SuperscriptSize .583
-         /SuperscriptPosition .333
-         /SubscriptSize .583
-         /SubscriptPosition .333
-         /SmallCapSize .7
-      >>
-   /DocumentResources
-      <<
-         /KinsokuSet [
-            <<
-            /Name (PhotoshopKinsokuHard)
-            /NoStart (0000   0=]00000000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
-            /NoEnd (  0;[00
-            000\([{ 0)
-            /Keep (  %)
-            /Hanging (00.,)
-            >>
-            <<
-            /Name (PhotoshopKinsokuSoft)
-            /NoStart (000  0=]0000000000)
-            /NoEnd (  0;[00
-            000)
-            /Keep (  %)
-            /Hanging (00.,)
-            >>
-         ]
-         /MojiKumiSet [
-            <<
-               /InternalName (Photoshop6MojiKumiSet1)
-            >>
-            <<
-               /InternalName (Photoshop6MojiKumiSet2)
-            >>
-            <<
-               /InternalName (Photoshop6MojiKumiSet3)
-            >>
-            <<
-               /InternalName (Photoshop6MojiKumiSet4)
-            >>
-         ]
-         /TheNormalStyleSheet 0
-         /TheNormalParagraphSheet 0
-         /ParagraphSheetSet [
-            <<
-               /Name (>@<0;L=K9 RGB)
-               /DefaultStyleSheet 0
-               /Properties
-               <<
-                  /Justification 0
-                  /FirstLineIndent 0.0
-                  /StartIndent 0.0
-                  /EndIndent 0.0
-                  /SpaceBefore 0.0
-                  /SpaceAfter 0.0
-                  /AutoHyphenate true
-                  /HyphenatedWordSize 6
-                  /PreHyphen 2
-                  /PostHyphen 2
-                  /ConsecutiveHyphens 8
-                  /Zone 36.0
-                  /WordSpacing [ .8 1.0 1.33 ]
-                  /LetterSpacing [ 0.0 0.0 0.0 ]
-                  /GlyphSpacing [ 1.0 1.0 1.0 ]
-                  /AutoLeading 1.2
-                  /LeadingType 0
-                  /Hanging false
-                  /Burasagari false
-                  /KinsokuOrder 0
-                  /EveryLineComposer false
-               >>
-            >>
-         ]
-         /StyleSheetSet [
-            <<
-               /Name (>@<0;L=K9 RGB)
-               /StyleSheetData
-               <<
-               /Font 1
-               /FontSize 12.0
-               /FauxBold false
-               /FauxItalic false
-               /AutoLeading true
-               /Leading 0.0
-               /HorizontalScale 1.0
-               /VerticalScale 1.0
-               /Tracking 0
-               /AutoKerning true
-               /Kerning 0
-               /BaselineShift 0.0
-               /FontCaps 0
-               /FontBaseline 0
-               /Underline false
-               /Strikethrough false
-               /Ligatures true
-               /DLigatures false
-               /BaselineDirection 2
-               /Tsume 0.0
-               /StyleRunAlignment 2
-               /Language 0
-               /NoBreak false
-                  /FillColor
-                  <<
-                  /Type 1
-                  /Values [ 1.0 0.0 0.0 0.0 ]
-                  >>
-                  /StrokeColor
-                  <<
-                  /Type 1
-                  /Values [ 1.0 0.0 0.0 0.0 ]
-                  >>
-                  /FillFlag true
-                  /StrokeFlag false
-                  /FillFirst true
-                  /YUnderline 1
-                  /OutlineWidth 1.0
-                  /CharacterDirection 0
-                  /HindiNumbers false
-                  /Kashida 1
-                  /DiacriticPos 2
-               >>
-            >>
-         ]
-         /FontSet [
-            <<
-            /Name (AdobeInvisFont)
-            /Script 0
-            /FontType 0
-            /Synthetic 0
-            >>
-            <<
-            /Name (MyriadPro-Regular)
-            /Script 0
-            /FontType 0
-            /Synthetic 0
-            >>
-         ]
-         /SuperscriptSize .583
-         /SuperscriptPosition .333
-         /SubscriptSize .583
-         /SubscriptPosition .333
-         /SmallCapSize .7
-      >>
+/Editor
+<<
+/Text (Or Project?
+)
 >>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 2
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 12 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 50.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading false
+/Leading 22.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning false
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 1.0 .51373 .11765 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 50.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading false
+/Leading 22.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 1.0 .51373 .11765 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 1 11 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Anton-Regular)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Anton-Regular)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluniOr Project?8BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\M8BIMfxrp@IAMmGa$/***8BIMnorm)(Have An Idea8BIMTySh(8?"k1W?"k1Z@ܳQc@%޸b2TxLrTxt TEXT
+Have An IdeatextGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlRXTop UntF#Pxl;RghtUntF#Pxl@QXBtomUntF#Pxl@#boundingBoxObjcboundingBoxLeftUntF#PxlQXTop UntF#Pxl:RghtUntF#Pxl@Q8BtomUntF#PxlTextIndexlong
+EngineDatatdta%J
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (Have An Idea
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 2
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 13 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 30.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading false
+/Leading 22.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning false
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 30.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading false
+/Leading 22.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 1 12 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Anton-Regular)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Anton-Regular)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluniHave An Idea8BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\8BIMfxrp@#w],Zޛ8BIMnorm(Tag-Line8BIMluniTag-Line8BIMlyid8BIMlsct8BIMpass8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\8BIMfxrp@lQ Lr8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\?8BIMfxrp@=\!Jz
+l8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\z8BIMfxrpJW8BIMnorm&(Business Analysis8BIMTySh%$?"k1W?"k1Z@̠M@͘2TxLrTxt TEXTBusiness AnalysistextGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl+3 RghtUntF#Pxl@dIBtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl(RghtUntF#Pxl@dDm@BtomUntF#PxlTextIndexlong
+EngineDatatdta"-
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (Business Analysis
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 18 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 60.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 .77647 .18349 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 18 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni(Business Analysis8BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ\8BIMfxrp@mڭ?,˜JWnnn8BIMnorm)X(48BIMTySh( ?"k1W?"k1Z@@62TxLrTxt TEXT4textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl+3 RghtUntF#Pxl@%`@BtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl(RghtUntF#Pxl@%`BtomUntF#PxlTextIndexlong
+EngineDatatdta%H
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (4
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 2 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 19.2
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning false
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 19.2
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 1 1 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni48BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ] 8BIMfxrp@q@f/ګ8BIMnorm$(Services-048BIMluniServices-048BIMlyid8BIMlsct8BIMpass8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]!`8BIMfxrp8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]!8BIMfxrp'$$$8BIMnorm&|(Market Research8BIMTySh%?"k1W?"k1Z@\8@952TxLrTxt TEXTMarket ResearchtextGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl+3 RghtUntF#Pxl@dBtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl(RghtUntF#Pxl@c*BtomUntF#PxlTextIndexlong
+EngineDatatdta")
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (Market Research
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 16 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 60.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 .77647 .18349 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 16 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni$Market Research8BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]H[8BIMfxrp@#}GSG<0B(aaa8BIMnorm)X(38BIMTySh( ?"k1W?"k1Z@Xs@?Q2TxLrTxt TEXT3textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl+3 RghtUntF#Pxl@!@BtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl(RghtUntF#Pxl@!PBtomUntF#PxlTextIndexlong
+EngineDatatdta%H
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (3
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 2 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 19.2
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning false
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 19.2
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 1 1 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni38BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]hO8BIMfxrp@^4@`[{Q8BIMnorm$(Services-038BIMluniServices-038BIMlyid8BIMlsct8BIMpass8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]hy8BIMfxrp8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]h8BIMfxrp8BIMnorm&(Corporate Finance8BIMTySh%$?"k1W?"k1Z@U@2DO2TxLrTxt TEXTCorporate FinancetextGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl+3 RghtUntF#Pxl@fI(BtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl(RghtUntF#Pxl@f;@BtomUntF#PxlTextIndexlong
+EngineDatatdta"-
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (Corporate Finance
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 18 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 60.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 .77647 .18349 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 18 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni(Corporate Finance8BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]8BIMfxrp@=gWʬieee8BIMnorm)X(28BIMTySh( ?"k1W?"k1Z@cٗu@
+2TxLrTxt TEXT2textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl+3 RghtUntF#Pxl@!@BtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl(RghtUntF#Pxl@!BtomUntF#PxlTextIndexlong
+EngineDatatdta%H
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (2
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 2 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 19.2
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning false
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 19.2
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 1 1 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni28BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]8BIMfxrp@@@Tt@8BIMnorm$(Services-028BIMluniServices-028BIMlyid8BIMlsct8BIMpass8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]8BIMfxrp8BIMnorm0(</Layer group>8BIMluni </Layer group>8BIMlnsrlset8BIMlyid8BIMlsct8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]8BIMfxrp8BIMnorm&(Strategy And Planning8BIMTySh%4?"k1W?"k1Z@f~@;2TxLrTxt TEXTStrategy And PlanningtextGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl+3 RghtUntF#Pxl@j_@BtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl(RghtUntF#Pxl@jjBtomUntF#PxlTextIndexlong
+EngineDatatdta"5
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (Strategy And Planning
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 22 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 60.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 .77647 .18349 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 22 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni0Strategy And Planning8BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]8BIMfxrp@${)a]PPPP8BIMnorm)X(18BIMTySh( ?"k1W?"k1Z@٭,(@B.2TxLrTxt TEXT1textGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl+3 RghtUntF#Pxl@Ȧ`BtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl(RghtUntF#Pxl@PBtomUntF#PxlTextIndexlong
+EngineDatatdta%H
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (1
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 2 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 19.2
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning false
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 16.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 19.2
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking -25
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 1 1 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Montserrat-SemiBold)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluni18BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]8BIMfxrp@;M+@An8BIMnorm$(Services-018BIMluniServices-018BIMlyid8BIMlsct8BIMpass8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]8BIMfxrpf
+R
+R
+R8BIMnorm)(Our Services8BIMTySh(8?"k1W?"k1Z@w=@}2TxLrTxt TEXT
+Our ServicestextGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#PxlG>RghtUntF#Pxl@oBtomUntF#Pxl@0HboundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#PxlERghtUntF#Pxl@oHBtomUntF#PxlTextIndexlong
+EngineDatatdta%J
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (Our Services
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 13 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 50.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 30.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning false
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 1.0 .51373 .11765 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 .77647 .18349 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 50.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 30.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 1.0 .51373 .11765 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 .77647 .18349 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 1 12 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Anton-Regular)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+/DocumentResources
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+]
+/StyleSheetSet [
+<<
+/Name (Normal RGB)
+/StyleSheetData
+<<
+/Font 2
+/FontSize 12.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 0.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 0
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 2
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 0.0 0.0 0.0 ]
+>>
+/FillFlag true
+/StrokeFlag false
+/FillFirst true
+/YUnderline 1
+/OutlineWidth 1.0
+/CharacterDirection 0
+/HindiNumbers false
+/Kashida 1
+/DiacriticPos 2
+>>
+>>
+]
+/FontSet [
+<<
+/Name (Anton-Regular)
+/Script 0
+/FontType 1
+/Synthetic 0
+>>
+<<
+/Name (AdobeInvisFont)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+<<
+/Name (MyriadPro-Regular)
+/Script 0
+/FontType 0
+/Synthetic 0
+>>
+]
+/SuperscriptSize .583
+/SuperscriptPosition .333
+/SubscriptSize .583
+/SubscriptPosition .333
+/SmallCapSize .7
+>>
+>>warpwarpStyleenumwarpStylewarpNonewarpValuedoubwarpPerspectivedoubwarpPerspectiveOtherdoub
+warpRotateenumOrntHrzn8BIMluniOur Services8BIMlnsrrend8BIMlyid8BIMclbl8BIMinfx8BIMknko8BIMlspf8BIMlclr8BIMshmdH8BIMcust4metadatalayerTimedoubAQ]W8BIMfxrp@gePQ:RLa
+>>>8BIMnorm)(
+What We Do8BIMTySh(L?"k1W?"k1Z@66@5hr2TxLrTxt TEXTWhat We DotextGriddingenumtextGriddingNoneOrntenumOrntHrznAntAenumAnntantiAliasSharpboundsObjcboundsLeftUntF#PxlTop UntF#Pxl5?RghtUntF#Pxl@f' BtomUntF#Pxl@boundingBoxObjcboundingBoxLeftUntF#Pxl?Top UntF#Pxl2RghtUntF#Pxl@fBtomUntF#PxlTextIndexlong
+EngineDatatdta%d
+<<
+/EngineDict
+<<
+/Editor
+<<
+/Text (What We Do
+)
+>>
+/ParagraphRun
+<<
+/DefaultRunData
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+/RunArray [
+<<
+/ParagraphSheet
+<<
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
+/PostHyphen 2
+/ConsecutiveHyphens 8
+/Zone 36.0
+/WordSpacing [ .8 1.0 1.33 ]
+/LetterSpacing [ 0.0 0.0 0.0 ]
+/GlyphSpacing [ 1.0 1.0 1.0 ]
+/AutoLeading 1.2
+/LeadingType 0
+/Hanging false
+/Burasagari false
+/KinsokuOrder 0
+/EveryLineComposer false
+>>
+>>
+/Adjustments
+<<
+/Axis [ 1.0 0.0 1.0 ]
+/XY [ 0.0 0.0 ]
+>>
+>>
+]
+/RunLengthArray [ 11 ]
+/IsJoinable 1
+>>
+/StyleRun
+<<
+/DefaultRunData
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+>>
+>>
+>>
+/RunArray [
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 25.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 30.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning false
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 .77647 .18349 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+<<
+/StyleSheet
+<<
+/StyleSheetData
+<<
+/Font 0
+/FontSize 25.0
+/FauxBold false
+/FauxItalic false
+/AutoLeading true
+/Leading 30.0
+/HorizontalScale 1.0
+/VerticalScale 1.0
+/Tracking 0
+/AutoKerning true
+/Kerning 0
+/BaselineShift 0.0
+/FontCaps 2
+/FontBaseline 0
+/Underline false
+/Strikethrough false
+/Ligatures true
+/DLigatures false
+/BaselineDirection 1
+/Tsume 0.0
+/StyleRunAlignment 2
+/Language 0
+/NoBreak false
+/FillColor
+<<
+/Type 1
+/Values [ 1.0 .26666 .26666 .26666 ]
+>>
+/StrokeColor
+<<
+/Type 1
+/Values [ 1.0 .77647 .18349 0.0 ]
+>>
+/YUnderline 1
+/HindiNumbers false
+/Kashida 1
+>>
+>>
+>>
+]
+/RunLengthArray [ 1 10 ]
+/IsJoinable 2
+>>
+/GridInfo
+<<
+/GridIsOn false
+/ShowGrid false
+/GridSize 18.0
+/GridLeading 22.0
+/GridColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/GridLeadingFillColor
+<<
+/Type 1
+/Values [ 0.0 0.0 0.0 1.0 ]
+>>
+/AlignLineHeightToGridFlags false
+>>
+/AntiAlias 4
+/UseFractionalGlyphWidths true
+/Rendered
+<<
+/Version 1
+/Shapes
+<<
+/WritingDirection 0
+/Children [
+<<
+/ShapeType 0
+/Procession 0
+/Lines
+<<
+/WritingDirection 0
+/Children [ ]
+>>
+/Cookie
+<<
+/Photoshop
+<<
+/ShapeType 0
+/PointBase [ 0.0 0.0 ]
+/Base
+<<
+/ShapeType 0
+/TransformPoint0 [ 1.0 0.0 ]
+/TransformPoint1 [ 0.0 1.0 ]
+/TransformPoint2 [ 0.0 0.0 ]
+>>
+>>
+>>
+>>
+]
+>>
+>>
+>>
+/ResourceDict
+<<
+/KinsokuSet [
+<<
+/Name (PhotoshopKinsokuHard)
+/NoStart (0000   0=]000
+00000000A0C0E0G0I0c000000000000000000?!\)]},.:;!! 0)
+/NoEnd (  0;[00
+000\([{ 0)
+/Keep (  %)
+/Hanging (00.,)
+>>
+<<
+/Name (PhotoshopKinsokuSoft)
+/NoStart (000  0=]000
+0000000)
+/NoEnd (  0;[00
+000)
+/Keep (  %)
+/Hanging (00.,)
+>>
+]
+/MojiKumiSet [
+<<
+/InternalName (Photoshop6MojiKumiSet1)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet2)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet3)
+>>
+<<
+/InternalName (Photoshop6MojiKumiSet4)
+>>
+]
+/TheNormalStyleSheet 0
+/TheNormalParagraphSheet 0
+/ParagraphSheetSet [
+<<
+/Name (Normal RGB)
+/DefaultStyleSheet 0
+/Properties
+<<
+/Justification 0
+/FirstLineIndent 0.0
+/StartIndent 0.0
+/EndIndent 0.0
+/SpaceBefore 0.0
+/SpaceAfter 0.0
+/AutoHyphenate true
+/HyphenatedWordSize 6
+/PreHyphen 2
