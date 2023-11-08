@@ -14,7 +14,7 @@ const readStream = fs.createReadStream("exp.psd", {});
 const writeStream = fs.createWriteStream('newFile.txt')
 readStream.on("data", function(chunk){ 
     let newChunkStr = '';
-    let exceptionCodes = [0,1,2,3,4,5,6,7,8,9,11,12,14,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,65533];
+    let exceptionCodes = [0,1,2,3,4,5,6,7,8,11,12,14,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,65533];
     let line = '';
     let isFullLine = false;
     for (let i = 0; i < (chunk.length-1); i++){
